@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Assignment4-I.iml" filepath="$PROJECT_DIR$/.idea/Assignment4-I.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Assignment4-II/.idea/Assignment4-II.iml" filepath="$PROJECT_DIR$/../Assignment4-II/.idea/Assignment4-II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Lecture10/.idea/Lecture10.iml" filepath="$PROJECT_DIR$/../Lecture10/.idea/Lecture10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Lecture11/.idea/Lecture11.iml" filepath="$PROJECT_DIR$/../Lecture11/.idea/Lecture11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../20200510 SC101/SC101 - Assignment3/.idea/SC101 - Assignment3.iml" filepath="$PROJECT_DIR$/../20200510 SC101/SC101 - Assignment3/.idea/SC101 - Assignment3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../20200510 SC101/SC101 - Assignment4/.idea/SC101 - Assignment4.iml" filepath="$PROJECT_DIR$/../20200510 SC101/SC101 - Assignment4/.idea/SC101 - Assignment4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../20200510 SC101/SC101 - Assignment5/.idea/SC101 - Assignment5.iml" filepath="$PROJECT_DIR$/../20200510 SC101/SC101 - Assignment5/.idea/SC101 - Assignment5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../20200510 SC101/SC101_week4/.idea/SC101_week4.iml" filepath="$PROJECT_DIR$/../20200510 SC101/SC101_week4/.idea/SC101_week4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../20200510 SC101/SC101_week5/.idea/SC101_week5.iml" filepath="$PROJECT_DIR$/../20200510 SC101/SC101_week5/.idea/SC101_week5.iml" />
+    </modules>
+  </component>
+</project>

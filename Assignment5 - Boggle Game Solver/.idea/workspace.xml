@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75fb74d5-1238-4d75-906c-162088e7118b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cS9PntuWkoofZ5uCip6nFGP0Kn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.boggle">
+    <configuration name="anagram_2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="SC101 - Assignment5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/anagram_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="boggle" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="SC101 - Assignment5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/boggle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75fb74d5-1238-4d75-906c-162088e7118b" name="Default Changelist" comment="" />
+      <created>1590511105489</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590511105489</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="219" y="23" key="#anagram" timestamp="1590576658652">
+      <screen x="65" y="23" width="1375" height="877" />
+    </state>
+    <state x="219" y="23" key="#anagram/65.23.1375.877@65.23.1375.877" timestamp="1590576658652" />
+    <state x="65" y="23" width="669" height="877" key="#anagram_2" timestamp="1591036354375">
+      <screen x="65" y="23" width="1375" height="877" />
+    </state>
+    <state x="65" y="23" width="669" height="877" key="#anagram_2/65.23.1375.877@65.23.1375.877" timestamp="1591036354375" />
+    <state x="244" y="23" width="669" height="877" key="#boggle" timestamp="1591040162460">
+      <screen x="65" y="23" width="1375" height="877" />
+    </state>
+    <state x="187" y="0" key="#boggle/0.0.1440.900@0.0.1440.900" timestamp="1590565881886" />
+    <state x="244" y="23" width="669" height="877" key="#boggle/65.23.1375.877@65.23.1375.877" timestamp="1591040162460" />
+    <state x="144" y="23" width="1296" height="877" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591036348706">
+      <screen x="65" y="23" width="1375" height="877" />
+    </state>
+    <state x="144" y="23" width="1296" height="877" key="#com.intellij.execution.impl.EditConfigurationsDialog/65.23.1375.877@65.23.1375.877" timestamp="1591036348706" />
+    <state x="187" y="0" key="#tree" timestamp="1590513385616">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="187" y="0" key="#tree/0.0.1440.900@0.0.1440.900" timestamp="1590513385616" />
+    <state width="1349" height="218" key="GridCell.Tab.0.bottom" timestamp="1591043473478">
+      <screen x="65" y="23" width="1375" height="877" />
+    </state>
+    <state width="1399" height="173" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590565960287" />
+    <state width="1349" height="274" key="GridCell.Tab.0.bottom/62.23.1378.877@62.23.1378.877" timestamp="1590593109840" />
+    <state width="1349" height="218" key="GridCell.Tab.0.bottom/65.23.1375.877@65.23.1375.877" timestamp="1591043473478" />
+    <state width="1349" height="218" key="GridCell.Tab.0.center" timestamp="1591043473477">
+      <screen x="65" y="23" width="1375" height="877" />
+    </state>
+    <state width="1399" height="173" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1590565960285" />
+    <state width="1349" height="274" key="GridCell.Tab.0.center/62.23.1378.877@62.23.1378.877" timestamp="1590593109839" />
+    <state width="1349" height="218" key="GridCell.Tab.0.center/65.23.1375.877@65.23.1375.877" timestamp="1591043473477" />
+    <state width="1349" height="218" key="GridCell.Tab.0.left" timestamp="1591043473477">
+      <screen x="65" y="23" width="1375" height="877" />
+    </state>
+    <state width="1399" height="173" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1590565960284" />
+    <state width="1349" height="274" key="GridCell.Tab.0.left/62.23.1378.877@62.23.1378.877" timestamp="1590593109839" />
+    <state width="1349" height="218" key="GridCell.Tab.0.left/65.23.1375.877@65.23.1375.877" timestamp="1591043473477" />
+    <state width="1349" height="218" key="GridCell.Tab.0.right" timestamp="1591043473478">
+      <screen x="65" y="23" width="1375" height="877" />
+    </state>
+    <state width="1399" height="173" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1590565960286" />
+    <state width="1349" height="274" key="GridCell.Tab.0.right/62.23.1378.877@62.23.1378.877" timestamp="1590593109840" />
+    <state width="1349" height="218" key="GridCell.Tab.0.right/65.23.1375.877@65.23.1375.877" timestamp="1591043473478" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1590511117897">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1590511117897" />
+  </component>
+</project>
